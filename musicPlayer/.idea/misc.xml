@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/android/musicPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
-        <entry key="..\:/android/musicPlayer/app/src/main/res/drawable/tab_indicator.xml" value="0.1205" />
-        <entry key="..\:/android/musicPlayer/app/src/main/res/layout/activity_main.xml" value="0.136" />
-        <entry key="..\:/android/musicPlayer/app/src/main/res/layout/fragment_album.xml" value="0.1125" />
-        <entry key="..\:/android/musicPlayer/app/src/main/res/layout/fragment_songs.xml" value="0.1" />
-        <entry key="..\:/android/musicPlayer/app/src/main/res/layout/music_items.xml" value="0.1" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.139" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable/bg_selected.xml" value="0.1535" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable/ic_next_background.xml" value="0.139" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable/ic_pause_background.xml" value="0.124" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable/ic_pause_song.xml" value="0.124" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable/ic_play.xml" value="0.122" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/drawable/ic_play_song_background.xml" value="0.124" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/layout/layout_music_control.xml" value="0.264" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/layout/song_list.xml" value="0.72" />
+        <entry key="..\:/android/test/MusicPlayer/app/src/main/res/layout/text_slide.xml" value="0.1953125" />
       </map>
     </option>
   </component>
